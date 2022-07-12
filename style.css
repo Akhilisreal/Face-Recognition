@@ -1,0 +1,44 @@
+body {
+    background-color: antiquewhite;
+}
+
+#cont {
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.labels {
+    font-family: 'Roboto Slab', serif;
+}
+
+#b1,
+#b2 {
+    border-radius: 15px;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 3px;
+    font-family: 'Roboto Slab', serif;
+}
+
+#p1,
+#p2 {
+    font-family: 'Roboto Slab', serif;
+}
+
+#words {
+    font-size: medium;
+}
+
+#camera {
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    width: 300;
+    height: 350;
+}
